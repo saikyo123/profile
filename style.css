@@ -1,0 +1,46 @@
+body {
+  background-color: #EAE8FF;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #2D3142;
+  font-size: medium;
+  line-height: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+h1, h2, h3 {
+  color: #B0D7FF;
+  font-family: 'Times New Roman', Times, serif;
+  font-size:larger;
+  line-height: normal;
+}
+#photooo{
+  border-radius: 50%;
+  align-items: center;
+  justify-content: center;
+
+}
+
+a {
+  color: #ADACB5;
+  text-decoration-color: yellow;
+}
+
+.card {
+  background-color: white;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 10px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.card2 {
+  background-color: white;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 10px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
